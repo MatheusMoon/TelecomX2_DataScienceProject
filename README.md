@@ -20,9 +20,9 @@ O trabalho foi desenvolvido em **Jupyter Notebook** e utiliza bibliotecas do eco
 - **Imbalanced-learn (SMOTE)** — Balanceamento de classes
 
 ## 📂 Estrutura do Projeto
-├── telecom-x-parte2-br.ipynb # Notebook com todo o fluxo de análise e modelagem
-├── data/ # (Opcional) Pasta para armazenar datasets
-└── README.md # Documentação do projeto
+- ├── telecom-x-parte2-br.ipynb # Notebook com todo o fluxo de análise e modelagem
+- ├── data/ # (Opcional) Pasta para armazenar datasets
+- └── README.md # Documentação do projeto
 
 markdown
 Copiar
